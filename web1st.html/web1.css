@@ -1,0 +1,75 @@
+body{
+    background-color: #e9edf5;
+  }
+  .navbar{
+    background-color: black;
+    height: 69px;
+  }
+ .collapse{
+  justify-content: center;
+  white-space-collapse: discard;
+ }
+
+  .new{
+    color: white;
+    margin-left: 50px;
+     transition-delay: 0.4sec;
+  }
+    .new:hover{
+      transform: scale(1.0);
+        color: red;
+      }
+
+  .new5{
+    transition-delay: 0.4sec;
+        color: white;
+  }
+     .new5:hover{
+      transform: scale(1.0);
+        color: red;
+
+      }
+  .nav-link2{
+    color: white;
+    margin-left: 80px;  
+  }
+  .dropdown-menu{
+    margin-left: 550px;
+    text-align: center;
+    background-color: transparent;
+  }
+   .new2{
+    display:block;
+    color: white;
+    background-color: blue;
+   }
+    .navbar-brand{
+      color: white;
+      margin-left: 40px !important;
+      font-size: 25px;
+      font-weight: 40px;
+    }
+    .box4{
+      background-color: #e5e3e3;
+      border-top: 1px solid grey;
+    }
+    .text-reset{
+      color: black;
+      transition-delay: 0.4sec;
+     
+    }
+    .text-reset:hover{
+       transform: scale(1.1);
+       color: red;   
+        }
+
+   .new6{
+ 
+        color: black;
+  }
+  .box7{
+    background-color: #0000009e;
+  }
+  .form-label{
+    color: white;
+  }

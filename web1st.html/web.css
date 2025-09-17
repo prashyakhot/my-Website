@@ -1,0 +1,63 @@
+       .navbar{
+    background-color: black;
+    height: 69px;
+  }
+  .c5{
+    box-shadow: 0 0 10px 0 gray;
+  }
+.new{
+    color: white;
+    margin-left: 50px;
+
+     transition-delay: 0.4sec;
+  }
+    .new:hover{
+      transform: scale(1.0);
+        color: red;
+        text-decoration: none;
+      }
+      .dropdown-menu{
+        display: flex;
+        justify-content: center;
+        text-align: center;
+      }
+
+      
+      .b1{
+         background-color: #c9c9c9;
+          }
+    
+      .i1{
+        
+        margin-right: 10px;
+        border-radius: 23px;
+        box-shadow: 0 0 7px 0 black;
+      transition: transform .3s;
+
+      }
+ 
+    .i1:hover{
+     transform: scale(1.05);
+    }
+
+
+          .text-reset{
+      color: black;
+      transition-delay: 0.4sec;
+     
+    }
+    .text-reset:hover{
+       transform: scale(1.1);
+       color: red;   
+        }
+        .new6{
+ 
+        color: black;
+    }
+    .c7{
+            transition: transform .3s;
+
+    }
+     .c7:hover{
+     transform: scale(1.05);
+    }
